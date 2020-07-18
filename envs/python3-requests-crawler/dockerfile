@@ -1,0 +1,17 @@
+############################################################
+#
+# The dockerfile for building image for executing scripts to
+# crawl comic website.
+#
+############################################################
+FROM ubuntu:18.04
+MAINTAINER FATESAIKOU
+
+# Install utils
+
+RUN apt-get update && \
+    apt-get install -y apt-utils && \
+    apt-get install -y tmux git vim python3 python3-pip && \
+    apt-get install -y nodejs
+
+RUN pip3 install ipython requests beautifulsoup4 PyExecJS

@@ -1,0 +1,26 @@
+############################################################
+#
+# The dockerfile for building image for executing scripts to
+# crawl comic website.
+#
+############################################################
+FROM ubuntu:18.04
+MAINTAINER FATESAIKOU
+
+ARG USER=ubuntu
+ARG UID=1000
+ARG GID=1000
+
+# Install utils
+RUN apt-get update && \
+    apt-get install -y apt-utils && \
+    apt-get install -y tmux git vim python3 python3-pip && \
+    apt-get install -y chromium-browser udev chromium-chromedriver xvfb && \
+    apt-get install -y nodejs
+
+RUN pip3 install ipython requests beautifulsoup4 PyExecJS pyvirtualdisplay selenium
+
+RUN groupadd -g ${GID} ${UID}
+RUN useradd -ms /bin/bash -g ${GID} -u ${UID} ${USER}
+USER ${USER}
+WORKDIR /

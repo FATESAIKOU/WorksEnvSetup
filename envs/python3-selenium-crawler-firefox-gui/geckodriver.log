@@ -1,0 +1,971 @@
+1595175926431	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileQI4bPM"
+Gtk-Message: 16:25:26.474: Failed to load module "canberra-gtk-module"
+Gtk-Message: 16:25:26.475: Failed to load module "canberra-gtk-module"
+Gtk-Message: 16:25:26.989: Failed to load module "canberra-gtk-module"
+Gtk-Message: 16:25:26.990: Failed to load module "canberra-gtk-module"
+Gtk-Message: 16:25:27.023: Failed to load module "canberra-gtk-module"
+Gtk-Message: 16:25:27.024: Failed to load module "canberra-gtk-module"
+
+(firefox:57): LIBDBUSMENU-GLIB-WARNING **: 16:25:27.030: Unable to get session bus: Failed to execute child process ?dbus-launch? (No such file or directory)
+1595175927684	Marionette	INFO	Listening on port 39765
+1595175927734	Marionette	WARN	TLS certificate errors will be ignored for this session
+Gtk-Message: 16:25:27.987: Failed to load module "canberra-gtk-module"
+Gtk-Message: 16:25:27.987: Failed to load module "canberra-gtk-module"
+1595175931883	Marionette	INFO	Stopped listening on port 39765
+1595205256592	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofilepd3wG0"
+Gtk-Message: 00:34:16.834: Failed to load module "canberra-gtk-module"
+Gtk-Message: 00:34:16.838: Failed to load module "canberra-gtk-module"
+Gtk-Message: 00:34:17.708: Failed to load module "canberra-gtk-module"
+Gtk-Message: 00:34:17.709: Failed to load module "canberra-gtk-module"
+Gtk-Message: 00:34:17.759: Failed to load module "canberra-gtk-module"
+Gtk-Message: 00:34:17.759: Failed to load module "canberra-gtk-module"
+
+(firefox:44): LIBDBUSMENU-GLIB-WARNING **: 00:34:17.784: Unable to get session bus: Failed to execute child process ?dbus-launch? (No such file or directory)
+1595205258353	Marionette	INFO	Listening on port 42785
+1595205258395	Marionette	WARN	TLS certificate errors will be ignored for this session
+Gtk-Message: 00:34:18.696: Failed to load module "canberra-gtk-module"
+Gtk-Message: 00:34:18.697: Failed to load module "canberra-gtk-module"
+1595205274663	Marionette	INFO	Stopped listening on port 42785
+1595205277195	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileWLgNQS"
+Gtk-Message: 00:34:37.229: Failed to load module "canberra-gtk-module"
+Gtk-Message: 00:34:37.230: Failed to load module "canberra-gtk-module"
+Gtk-Message: 00:34:37.693: Failed to load module "canberra-gtk-module"
+Gtk-Message: 00:34:37.694: Failed to load module "canberra-gtk-module"
+Gtk-Message: 00:34:37.751: Failed to load module "canberra-gtk-module"
+Gtk-Message: 00:34:37.752: Failed to load module "canberra-gtk-module"
+
+(firefox:302): LIBDBUSMENU-GLIB-WARNING **: 00:34:37.867: Unable to get session bus: Failed to execute child process ?dbus-launch? (No such file or directory)
+1595205278312	Marionette	INFO	Listening on port 35327
+1595205278398	Marionette	WARN	TLS certificate errors will be ignored for this session
+Gtk-Message: 00:34:38.680: Failed to load module "canberra-gtk-module"
+Gtk-Message: 00:34:38.680: Failed to load module "canberra-gtk-module"
+1595205278909	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileeKgSTS"
+Gtk-Message: 00:34:38.963: Failed to load module "canberra-gtk-module"
+Gtk-Message: 00:34:38.964: Failed to load module "canberra-gtk-module"
+Gtk-Message: 00:34:39.451: Failed to load module "canberra-gtk-module"
+Gtk-Message: 00:34:39.452: Failed to load module "canberra-gtk-module"
+
+(firefox:542): LIBDBUSMENU-GLIB-WARNING **: 00:34:39.499: Unable to get session bus: Failed to execute child process ?dbus-launch? (No such file or directory)
+Gtk-Message: 00:34:39.508: Failed to load module "canberra-gtk-module"
+Gtk-Message: 00:34:39.509: Failed to load module "canberra-gtk-module"
+1595205280019	Marionette	INFO	Listening on port 44399
+1595205280112	Marionette	WARN	TLS certificate errors will be ignored for this session
+Gtk-Message: 00:34:40.430: Failed to load module "canberra-gtk-module"
+Gtk-Message: 00:34:40.435: Failed to load module "canberra-gtk-module"
+1595205280586	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileXo58In"
+Gtk-Message: 00:34:40.631: Failed to load module "canberra-gtk-module"
+Gtk-Message: 00:34:40.631: Failed to load module "canberra-gtk-module"
+Gtk-Message: 00:34:41.133: Failed to load module "canberra-gtk-module"
+Gtk-Message: 00:34:41.134: Failed to load module "canberra-gtk-module"
+
+(firefox:788): LIBDBUSMENU-GLIB-WARNING **: 00:34:41.181: Unable to get session bus: Failed to execute child process ?dbus-launch? (No such file or directory)
+Gtk-Message: 00:34:41.181: Failed to load module "canberra-gtk-module"
+Gtk-Message: 00:34:41.193: Failed to load module "canberra-gtk-module"
+1595205281748	Marionette	INFO	Listening on port 39651
+1595205281789	Marionette	WARN	TLS certificate errors will be ignored for this session
+Gtk-Message: 00:34:42.096: Failed to load module "canberra-gtk-module"
+Gtk-Message: 00:34:42.097: Failed to load module "canberra-gtk-module"
+1595205282275	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile7ntFzD"
+Gtk-Message: 00:34:42.316: Failed to load module "canberra-gtk-module"
+Gtk-Message: 00:34:42.317: Failed to load module "canberra-gtk-module"
+Gtk-Message: 00:34:42.842: Failed to load module "canberra-gtk-module"
+Gtk-Message: 00:34:42.843: Failed to load module "canberra-gtk-module"
+Gtk-Message: 00:34:42.881: Failed to load module "canberra-gtk-module"
+Gtk-Message: 00:34:42.881: Failed to load module "canberra-gtk-module"
+
+(firefox:1025): LIBDBUSMENU-GLIB-WARNING **: 00:34:42.965: Unable to get session bus: Failed to execute child process ?dbus-launch? (No such file or directory)
+1595205283427	Marionette	INFO	Listening on port 44367
+1595205283478	Marionette	WARN	TLS certificate errors will be ignored for this session
+Gtk-Message: 00:34:43.801: Failed to load module "canberra-gtk-module"
+Gtk-Message: 00:34:43.802: Failed to load module "canberra-gtk-module"
+1595205283957	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofilexsGZFu"
+Gtk-Message: 00:34:43.997: Failed to load module "canberra-gtk-module"
+Gtk-Message: 00:34:43.998: Failed to load module "canberra-gtk-module"
+Gtk-Message: 00:34:44.476: Failed to load module "canberra-gtk-module"
+Gtk-Message: 00:34:44.477: Failed to load module "canberra-gtk-module"
+Gtk-Message: 00:34:44.514: Failed to load module "canberra-gtk-module"
+Gtk-Message: 00:34:44.515: Failed to load module "canberra-gtk-module"
+
+(firefox:1262): LIBDBUSMENU-GLIB-WARNING **: 00:34:44.602: Unable to get session bus: Failed to execute child process ?dbus-launch? (No such file or directory)
+1595205285127	Marionette	INFO	Listening on port 46787
+1595205285159	Marionette	WARN	TLS certificate errors will be ignored for this session
+Gtk-Message: 00:34:45.463: Failed to load module "canberra-gtk-module"
+Gtk-Message: 00:34:45.464: Failed to load module "canberra-gtk-module"
+ExceptionHandler::GenerateDump cloned child 1496
+ExceptionHandler::SendContinueSignalToChild sent continue signal to child
+ExceptionHandler::WaitForContinueSignal waiting for continue signal...
+A content process crashed and MOZ_CRASHREPORTER_SHUTDOWN is set, shutting down
+1595205285710	Marionette	ERROR	[21] No reply from Marionette:Register
+1595205285737	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileetQXKa"
+Gtk-Message: 00:34:45.780: Failed to load module "canberra-gtk-module"
+Gtk-Message: 00:34:45.781: Failed to load module "canberra-gtk-module"
+Gtk-Message: 00:34:46.273: Failed to load module "canberra-gtk-module"
+Gtk-Message: 00:34:46.273: Failed to load module "canberra-gtk-module"
+Gtk-Message: 00:34:46.314: Failed to load module "canberra-gtk-module"
+Gtk-Message: 00:34:46.314: Failed to load module "canberra-gtk-module"
+
+(firefox:1517): LIBDBUSMENU-GLIB-WARNING **: 00:34:46.325: Unable to get session bus: Failed to execute child process ?dbus-launch? (No such file or directory)
+1595205286879	Marionette	INFO	Stopped listening on port 46787
+1595205286929	Marionette	INFO	Listening on port 33317
+1595205286942	Marionette	WARN	TLS certificate errors will be ignored for this session
+Gtk-Message: 00:34:47.297: Failed to load module "canberra-gtk-module"
+Gtk-Message: 00:34:47.298: Failed to load module "canberra-gtk-module"
+A content process crashed and MOZ_CRASHREPORTER_SHUTDOWN is set, shutting down
+1595205287475	Marionette	ERROR	[21] No reply from Marionette:Register
+1595205287504	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileM9CQaG"
+Gtk-Message: 00:34:47.548: Failed to load module "canberra-gtk-module"
+Gtk-Message: 00:34:47.549: Failed to load module "canberra-gtk-module"
+Gtk-Message: 00:34:48.052: Failed to load module "canberra-gtk-module"
+Gtk-Message: 00:34:48.052: Failed to load module "canberra-gtk-module"
+Gtk-Message: 00:34:48.092: Failed to load module "canberra-gtk-module"
+Gtk-Message: 00:34:48.093: Failed to load module "canberra-gtk-module"
+
+(firefox:1772): LIBDBUSMENU-GLIB-WARNING **: 00:34:48.106: Unable to get session bus: Failed to execute child process ?dbus-launch? (No such file or directory)
+1595205288645	Marionette	INFO	Stopped listening on port 33317
+1595205288705	Marionette	INFO	Listening on port 39585
+1595205288807	Marionette	WARN	TLS certificate errors will be ignored for this session
+Gtk-Message: 00:34:49.013: Failed to load module "canberra-gtk-module"
+Gtk-Message: 00:34:49.014: Failed to load module "canberra-gtk-module"
+A content process crashed and MOZ_CRASHREPORTER_SHUTDOWN is set, shutting down
+1595205289272	Marionette	ERROR	[21] No reply from Marionette:Register
+1595205289298	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofilestfw68"
+Gtk-Message: 00:34:49.332: Failed to load module "canberra-gtk-module"
+Gtk-Message: 00:34:49.333: Failed to load module "canberra-gtk-module"
+Gtk-Message: 00:34:49.792: Failed to load module "canberra-gtk-module"
+Gtk-Message: 00:34:49.793: Failed to load module "canberra-gtk-module"
+Gtk-Message: 00:34:49.833: Failed to load module "canberra-gtk-module"
+Gtk-Message: 00:34:49.834: Failed to load module "canberra-gtk-module"
+
+(firefox:2026): LIBDBUSMENU-GLIB-WARNING **: 00:34:49.845: Unable to get session bus: Failed to execute child process ?dbus-launch? (No such file or directory)
+1595205290483	Marionette	INFO	Listening on port 40513
+1595205290501	Marionette	WARN	TLS certificate errors will be ignored for this session
+Gtk-Message: 00:34:50.786: Failed to load module "canberra-gtk-module"
+Gtk-Message: 00:34:50.786: Failed to load module "canberra-gtk-module"
+ExceptionHandler::GenerateDump cloned child 2234ExceptionHandler::WaitForContinueSignal waiting for continue signal...
+
+ExceptionHandler::SendContinueSignalToChild sent continue signal to child
+Exiting due to channel error.
+Exiting due to channel error.
+1595205291440	Marionette	INFO	Stopped listening on port 39585
+1595205302272	Marionette	INFO	Stopped listening on port 35327
+1595205304135	Marionette	INFO	Stopped listening on port 44367
+1595205306195	Marionette	INFO	Stopped listening on port 39651
+1595205308336	Marionette	INFO	Stopped listening on port 44399
+1595205359962	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileDJbx3k"
+Gtk-Message: 00:35:59.996: Failed to load module "canberra-gtk-module"
+Gtk-Message: 00:35:59.997: Failed to load module "canberra-gtk-module"
+Gtk-Message: 00:36:00.470: Failed to load module "canberra-gtk-module"
+Gtk-Message: 00:36:00.470: Failed to load module "canberra-gtk-module"
+Gtk-Message: 00:36:00.511: Failed to load module "canberra-gtk-module"
+Gtk-Message: 00:36:00.511: Failed to load module "canberra-gtk-module"
+
+(firefox:2292): LIBDBUSMENU-GLIB-WARNING **: 00:36:00.521: Unable to get session bus: Failed to execute child process ?dbus-launch? (No such file or directory)
+1595205361107	Marionette	INFO	Listening on port 34487
+1595205361164	Marionette	WARN	TLS certificate errors will be ignored for this session
+Gtk-Message: 00:36:01.464: Failed to load module "canberra-gtk-module"
+Gtk-Message: 00:36:01.465: Failed to load module "canberra-gtk-module"
+1595205362188	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileEURFsF"
+Gtk-Message: 00:36:02.228: Failed to load module "canberra-gtk-module"
+Gtk-Message: 00:36:02.229: Failed to load module "canberra-gtk-module"
+Gtk-Message: 00:36:02.719: Failed to load module "canberra-gtk-module"
+Gtk-Message: 00:36:02.720: Failed to load module "canberra-gtk-module"
+Gtk-Message: 00:36:02.753: Failed to load module "canberra-gtk-module"
+Gtk-Message: 00:36:02.754: Failed to load module "canberra-gtk-module"
+
+(firefox:2537): LIBDBUSMENU-GLIB-WARNING **: 00:36:02.844: Unable to get session bus: Failed to execute child process ?dbus-launch? (No such file or directory)
+1595205363322	Marionette	INFO	Listening on port 39523
+1595205363391	Marionette	WARN	TLS certificate errors will be ignored for this session
+Gtk-Message: 00:36:03.713: Failed to load module "canberra-gtk-module"
+Gtk-Message: 00:36:03.714: Failed to load module "canberra-gtk-module"
+1595205364544	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofilempma35"
+Gtk-Message: 00:36:04.579: Failed to load module "canberra-gtk-module"
+Gtk-Message: 00:36:04.580: Failed to load module "canberra-gtk-module"
+Gtk-Message: 00:36:05.034: Failed to load module "canberra-gtk-module"
+Gtk-Message: 00:36:05.035: Failed to load module "canberra-gtk-module"
+Gtk-Message: 00:36:05.104: Failed to load module "canberra-gtk-module"
+Gtk-Message: 00:36:05.105: Failed to load module "canberra-gtk-module"
+
+(firefox:2781): LIBDBUSMENU-GLIB-WARNING **: 00:36:05.123: Unable to get session bus: Failed to execute child process ?dbus-launch? (No such file or directory)
+1595205365664	Marionette	INFO	Listening on port 36005
+1595205365750	Marionette	WARN	TLS certificate errors will be ignored for this session
+Gtk-Message: 00:36:06.047: Failed to load module "canberra-gtk-module"
+Gtk-Message: 00:36:06.047: Failed to load module "canberra-gtk-module"
+A content process crashed and MOZ_CRASHREPORTER_SHUTDOWN is set, shutting down
+1595205366749	Marionette	ERROR	[21] No reply from Marionette:Register
+1595205366754	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileIJ4Ayp"
+Gtk-Message: 00:36:06.797: Failed to load module "canberra-gtk-module"
+Gtk-Message: 00:36:06.798: Failed to load module "canberra-gtk-module"
+Gtk-Message: 00:36:07.316: Failed to load module "canberra-gtk-module"
+Gtk-Message: 00:36:07.317: Failed to load module "canberra-gtk-module"
+Gtk-Message: 00:36:07.368: Failed to load module "canberra-gtk-module"
+Gtk-Message: 00:36:07.368: Failed to load module "canberra-gtk-module"
+
+(firefox:3026): LIBDBUSMENU-GLIB-WARNING **: 00:36:07.375: Unable to get session bus: Failed to execute child process ?dbus-launch? (No such file or directory)
+1595205367876	Marionette	INFO	Stopped listening on port 36005
+1595205367942	Marionette	INFO	Listening on port 43413
+1595205367957	Marionette	WARN	TLS certificate errors will be ignored for this session
+Gtk-Message: 00:36:08.280: Failed to load module "canberra-gtk-module"
+Gtk-Message: 00:36:08.280: Failed to load module "canberra-gtk-module"
+ExceptionHandler::GenerateDump cloned child 3254
+ExceptionHandler::SendContinueSignalToChild sent continue signal to child
+ExceptionHandler::WaitForContinueSignal waiting for continue signal...
+A content process crashed and MOZ_CRASHREPORTER_SHUTDOWN is set, shutting down
+1595205369082	Marionette	ERROR	[21] No reply from Marionette:Register
+1595205369101	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile96vAC7"
+Gtk-Message: 00:36:09.150: Failed to load module "canberra-gtk-module"
+Gtk-Message: 00:36:09.151: Failed to load module "canberra-gtk-module"
+Gtk-Message: 00:36:09.637: Failed to load module "canberra-gtk-module"
+Gtk-Message: 00:36:09.638: Failed to load module "canberra-gtk-module"
+Gtk-Message: 00:36:09.678: Failed to load module "canberra-gtk-module"
+Gtk-Message: 00:36:09.678: Failed to load module "canberra-gtk-module"
+
+(firefox:3277): LIBDBUSMENU-GLIB-WARNING **: 00:36:09.688: Unable to get session bus: Failed to execute child process ?dbus-launch? (No such file or directory)
+1595205370242	Marionette	INFO	Listening on port 41827
+1595205370255	Marionette	INFO	Stopped listening on port 43413
+1595205370304	Marionette	WARN	TLS certificate errors will be ignored for this session
+Gtk-Message: 00:36:10.613: Failed to load module "canberra-gtk-module"
+Gtk-Message: 00:36:10.613: Failed to load module "canberra-gtk-module"
+A content process crashed and MOZ_CRASHREPORTER_SHUTDOWN is set, shutting down
+1595205371297	Marionette	ERROR	[21] No reply from Marionette:Register
+1595205371323	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofilevl7YxT"
+Gtk-Message: 00:36:11.364: Failed to load module "canberra-gtk-module"
+Gtk-Message: 00:36:11.364: Failed to load module "canberra-gtk-module"
+Gtk-Message: 00:36:11.837: Failed to load module "canberra-gtk-module"
+Gtk-Message: 00:36:11.837: Failed to load module "canberra-gtk-module"
+Gtk-Message: 00:36:11.877: Failed to load module "canberra-gtk-module"
+Gtk-Message: 00:36:11.877: Failed to load module "canberra-gtk-module"
+
+(firefox:3521): LIBDBUSMENU-GLIB-WARNING **: 00:36:11.886: Unable to get session bus: Failed to execute child process ?dbus-launch? (No such file or directory)
+1595205372413	Marionette	INFO	Listening on port 32967
+1595205372427	Marionette	WARN	TLS certificate errors will be ignored for this session
+1595205372485	Marionette	INFO	Stopped listening on port 41827
+Gtk-Message: 00:36:12.829: Failed to load module "canberra-gtk-module"
+Gtk-Message: 00:36:12.830: Failed to load module "canberra-gtk-module"
+A content process crashed and MOZ_CRASHREPORTER_SHUTDOWN is set, shutting down
+1595205373598	Marionette	ERROR	[21] No reply from Marionette:Register
+1595205373619	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileYrzVlW"
+Gtk-Message: 00:36:13.664: Failed to load module "canberra-gtk-module"
+Gtk-Message: 00:36:13.665: Failed to load module "canberra-gtk-module"
+Gtk-Message: 00:36:14.152: Failed to load module "canberra-gtk-module"
+Gtk-Message: 00:36:14.153: Failed to load module "canberra-gtk-module"
+
+(firefox:3775): LIBDBUSMENU-GLIB-WARNING **: 00:36:14.197: Unable to get session bus: Failed to execute child process ?dbus-launch? (No such file or directory)
+
+(firefox:3775): Gdk-ERROR **: 00:36:14.198: The program 'firefox' received an X Window System error.
+This probably reflects a bug in the program.
+The error was 'BadValue (integer parameter out of range for operation)'.
+  (Details: serial 289 error_code 2 request_code 130 (unknown) minor_code 3)
+  (Note to programmers: normally, X errors are reported asynchronously;
+   that is, you will receive the error a while after causing it.
+   To debug your program, run it with the GDK_SYNCHRONIZE environment
+   variable to change this behavior. You can then get a meaningful
+   backtrace from your debugger if you break on the gdk_x_error() function.)
+ExceptionHandler::GenerateDump cloned child ExceptionHandler::WaitForContinueSignal waiting for continue signal...
+3913
+ExceptionHandler::SendContinueSignalToChild sent continue signal to child
+Gtk-Message: 00:36:14.202: Failed to load module "canberra-gtk-module"
+Gtk-Message: 00:36:14.203: Failed to load module "canberra-gtk-module"
+Exiting due to channel error.
+Exiting due to channel error.
+1595205374717	Marionette	INFO	Stopped listening on port 32967
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x5B000D,name=PHttpChannel::Msg_DeletingChannel) Channel closing: too late to send/recv, messages will be lost
+
+1595205384158	Marionette	INFO	Stopped listening on port 34487
+1595205385277	Marionette	INFO	Stopped listening on port 39523
+1595247872024	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileM1zLEX"
+Gtk-Message: 12:24:32.274: Failed to load module "canberra-gtk-module"
+Gtk-Message: 12:24:32.278: Failed to load module "canberra-gtk-module"
+Gtk-Message: 12:24:33.149: Failed to load module "canberra-gtk-module"
+Gtk-Message: 12:24:33.150: Failed to load module "canberra-gtk-module"
+Gtk-Message: 12:24:33.215: Failed to load module "canberra-gtk-module"
+Gtk-Message: 12:24:33.215: Failed to load module "canberra-gtk-module"
+
+(firefox:49): LIBDBUSMENU-GLIB-WARNING **: 12:24:33.225: Unable to get session bus: Failed to execute child process ?dbus-launch? (No such file or directory)
+1595247873854	Marionette	INFO	Listening on port 37875
+1595247873929	Marionette	WARN	TLS certificate errors will be ignored for this session
+1595247873951	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofilePw1nVQ"
+Gtk-Message: 12:24:33.998: Failed to load module "canberra-gtk-module"
+Gtk-Message: 12:24:33.998: Failed to load module "canberra-gtk-module"
+Gtk-Message: 12:24:34.063: Failed to load module "canberra-gtk-module"
+Gtk-Message: 12:24:34.064: Failed to load module "canberra-gtk-module"
+Gtk-Message: 12:24:34.513: Failed to load module "canberra-gtk-module"
+Gtk-Message: 12:24:34.514: Failed to load module "canberra-gtk-module"
+
+(firefox:262): LIBDBUSMENU-GLIB-WARNING **: 12:24:34.561: Unable to get session bus: Failed to execute child process ?dbus-launch? (No such file or directory)
+Gtk-Message: 12:24:34.564: Failed to load module "canberra-gtk-module"
+Gtk-Message: 12:24:34.565: Failed to load module "canberra-gtk-module"
+1595247875144	Marionette	INFO	Listening on port 36509
+1595247875153	Marionette	WARN	TLS certificate errors will be ignored for this session
+1595247875174	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile8QZNGK"
+Gtk-Message: 12:24:35.216: Failed to load module "canberra-gtk-module"
+Gtk-Message: 12:24:35.217: Failed to load module "canberra-gtk-module"
+Gtk-Message: 12:24:35.471: Failed to load module "canberra-gtk-module"
+Gtk-Message: 12:24:35.472: Failed to load module "canberra-gtk-module"
+Gtk-Message: 12:24:35.765: Failed to load module "canberra-gtk-module"
+Gtk-Message: 12:24:35.766: Failed to load module "canberra-gtk-module"
+Gtk-Message: 12:24:35.803: Failed to load module "canberra-gtk-module"
+Gtk-Message: 12:24:35.804: Failed to load module "canberra-gtk-module"
+
+(firefox:499): LIBDBUSMENU-GLIB-WARNING **: 12:24:35.814: Unable to get session bus: Failed to execute child process ?dbus-launch? (No such file or directory)
+1595247876355	Marionette	INFO	Listening on port 46295
+1595247876377	Marionette	WARN	TLS certificate errors will be ignored for this session
+1595247876399	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofilebvk3LG"
+Gtk-Message: 12:24:36.450: Failed to load module "canberra-gtk-module"
+Gtk-Message: 12:24:36.450: Failed to load module "canberra-gtk-module"
+Gtk-Message: 12:24:36.732: Failed to load module "canberra-gtk-module"
+Gtk-Message: 12:24:36.733: Failed to load module "canberra-gtk-module"
+Gtk-Message: 12:24:36.982: Failed to load module "canberra-gtk-module"
+Gtk-Message: 12:24:36.983: Failed to load module "canberra-gtk-module"
+
+(firefox:731): LIBDBUSMENU-GLIB-WARNING **: 12:24:37.025: Unable to get session bus: Failed to execute child process ?dbus-launch? (No such file or directory)
+Gtk-Message: 12:24:37.031: Failed to load module "canberra-gtk-module"
+Gtk-Message: 12:24:37.043: Failed to load module "canberra-gtk-module"
+1595247877763	Marionette	INFO	Listening on port 42217
+1595247877802	Marionette	WARN	TLS certificate errors will be ignored for this session
+1595247877824	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileQ20BTs"
+Gtk-Message: 12:24:37.872: Failed to load module "canberra-gtk-module"
+Gtk-Message: 12:24:37.873: Failed to load module "canberra-gtk-module"
+Gtk-Message: 12:24:37.948: Failed to load module "canberra-gtk-module"
+Gtk-Message: 12:24:37.949: Failed to load module "canberra-gtk-module"
+Gtk-Message: 12:24:38.397: Failed to load module "canberra-gtk-module"
+Gtk-Message: 12:24:38.397: Failed to load module "canberra-gtk-module"
+Gtk-Message: 12:24:38.448: Failed to load module "canberra-gtk-module"
+Gtk-Message: 12:24:38.449: Failed to load module "canberra-gtk-module"
+
+(firefox:964): LIBDBUSMENU-GLIB-WARNING **: 12:24:38.537: Unable to get session bus: Failed to execute child process ?dbus-launch? (No such file or directory)
+1595247879090	Marionette	INFO	Listening on port 43369
+1595247879126	Marionette	WARN	TLS certificate errors will be ignored for this session
+1595247879148	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile2gCPw4"
+Gtk-Message: 12:24:39.232: Failed to load module "canberra-gtk-module"
+Gtk-Message: 12:24:39.232: Failed to load module "canberra-gtk-module"
+Gtk-Message: 12:24:39.380: Failed to load module "canberra-gtk-module"
+Gtk-Message: 12:24:39.380: Failed to load module "canberra-gtk-module"
+Gtk-Message: 12:24:39.748: Failed to load module "canberra-gtk-module"
+Gtk-Message: 12:24:39.749: Failed to load module "canberra-gtk-module"
+
+(firefox:1198): LIBDBUSMENU-GLIB-WARNING **: 12:24:39.798: Unable to get session bus: Failed to execute child process ?dbus-launch? (No such file or directory)
+Gtk-Message: 12:24:39.801: Failed to load module "canberra-gtk-module"
+Gtk-Message: 12:24:39.809: Failed to load module "canberra-gtk-module"
+1595247880428	Marionette	INFO	Listening on port 35037
+1595247880451	Marionette	WARN	TLS certificate errors will be ignored for this session
+Gtk-Message: 12:24:40.732: Failed to load module "canberra-gtk-module"
+Gtk-Message: 12:24:40.732: Failed to load module "canberra-gtk-module"
+
+###!!! [Parent][MessageChannel] Error: (msgtype=0x5B001C,name=PHttpChannel::Msg_DeleteSelf) Channel error: cannot send/recv
+
+
+###!!! [Parent][MessageChannel] Error: (msgtype=0x5B001C,name=PHttpChannel::Msg_DeleteSelf) Channel error: cannot send/recv
+
+
+###!!! [Parent][MessageChannel] Error: (msgtype=0x5B001C,name=PHttpChannel::Msg_DeleteSelf) Channel error: cannot send/recv
+
+
+###!!! [Parent][MessageChannel] Error: (msgtype=0x5B001C,name=PHttpChannel::Msg_DeleteSelf) Channel error: cannot send/recv
+
+
+###!!! [Parent][MessageChannel] Error: (msgtype=0x5B001C,name=PHttpChannel::Msg_DeleteSelf) Channel error: cannot send/recv
+
+
+###!!! [Parent][MessageChannel] Error: (msgtype=0x5B001C,name=PHttpChannel::Msg_DeleteSelf) Channel error: cannot send/recv
+
+
+###!!! [Parent][MessageChannel] Error: (msgtype=0x5B001C,name=PHttpChannel::Msg_DeleteSelf) Channel error: cannot send/recv
+
+
+###!!! [Parent][MessageChannel] Error: (msgtype=0x5B001C,name=PHttpChannel::Msg_DeleteSelf) Channel error: cannot send/recv
+
+
+###!!! [Parent][MessageChannel] Error: (msgtype=0x5B001C,name=PHttpChannel::Msg_DeleteSelf) Channel error: cannot send/recv
+
+A content process crashed and MOZ_CRASHREPORTER_SHUTDOWN is set, shutting down
+1595248002170	Marionette	ERROR	[21] No reply from Marionette:Register
+ExceptionHandler::GenerateDump cloned child ExceptionHandler::WaitForContinueSignal waiting for continue signal...
+1587
+ExceptionHandler::SendContinueSignalToChild sent continue signal to child
+Exiting due to channel error.
+Exiting due to channel error.
+1595248007269	Marionette	INFO	Stopped listening on port 36509
+1595248019841	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileMbloCG"
+Gtk-Message: 12:26:59.908: Failed to load module "canberra-gtk-module"
+Gtk-Message: 12:26:59.908: Failed to load module "canberra-gtk-module"
+Gtk-Message: 12:27:00.449: Failed to load module "canberra-gtk-module"
+Gtk-Message: 12:27:00.450: Failed to load module "canberra-gtk-module"
+Gtk-Message: 12:27:00.500: Failed to load module "canberra-gtk-module"
+Gtk-Message: 12:27:00.501: Failed to load module "canberra-gtk-module"
+
+(firefox:1602): LIBDBUSMENU-GLIB-WARNING **: 12:27:00.504: Unable to get session bus: Failed to execute child process ?dbus-launch? (No such file or directory)
+1595248021166	Marionette	INFO	Listening on port 39859
+1595248021244	Marionette	WARN	TLS certificate errors will be ignored for this session
+1595248021267	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofilePyops1"
+Gtk-Message: 12:27:01.313: Failed to load module "canberra-gtk-module"
+Gtk-Message: 12:27:01.313: Failed to load module "canberra-gtk-module"
+Gtk-Message: 12:27:01.379: Failed to load module "canberra-gtk-module"
+Gtk-Message: 12:27:01.380: Failed to load module "canberra-gtk-module"
+Gtk-Message: 12:27:01.846: Failed to load module "canberra-gtk-module"
+Gtk-Message: 12:27:01.847: Failed to load module "canberra-gtk-module"
+Gtk-Message: 12:27:01.888: Failed to load module "canberra-gtk-module"
+Gtk-Message: 12:27:01.888: Failed to load module "canberra-gtk-module"
+
+(firefox:1805): LIBDBUSMENU-GLIB-WARNING **: 12:27:01.982: Unable to get session bus: Failed to execute child process ?dbus-launch? (No such file or directory)
+1595248022455	Marionette	INFO	Listening on port 43345
+1595248022470	Marionette	WARN	TLS certificate errors will be ignored for this session
+1595248022499	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile52KgLG"
+Gtk-Message: 12:27:02.551: Failed to load module "canberra-gtk-module"
+Gtk-Message: 12:27:02.552: Failed to load module "canberra-gtk-module"
+Gtk-Message: 12:27:02.785: Failed to load module "canberra-gtk-module"
+Gtk-Message: 12:27:02.786: Failed to load module "canberra-gtk-module"
+Gtk-Message: 12:27:03.072: Failed to load module "canberra-gtk-module"
+Gtk-Message: 12:27:03.072: Failed to load module "canberra-gtk-module"
+Gtk-Message: 12:27:03.117: Failed to load module "canberra-gtk-module"
+Gtk-Message: 12:27:03.118: Failed to load module "canberra-gtk-module"
+
+(firefox:2040): LIBDBUSMENU-GLIB-WARNING **: 12:27:03.127: Unable to get session bus: Failed to execute child process ?dbus-launch? (No such file or directory)
+1595248023740	Marionette	INFO	Listening on port 32859
+1595248023802	Marionette	WARN	TLS certificate errors will be ignored for this session
+1595248023823	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileRHN5Ya"
+Gtk-Message: 12:27:03.862: Failed to load module "canberra-gtk-module"
+Gtk-Message: 12:27:03.862: Failed to load module "canberra-gtk-module"
+Gtk-Message: 12:27:04.050: Failed to load module "canberra-gtk-module"
+Gtk-Message: 12:27:04.050: Failed to load module "canberra-gtk-module"
+Gtk-Message: 12:27:04.363: Failed to load module "canberra-gtk-module"
+Gtk-Message: 12:27:04.364: Failed to load module "canberra-gtk-module"
+Gtk-Message: 12:27:04.403: Failed to load module "canberra-gtk-module"
+Gtk-Message: 12:27:04.404: Failed to load module "canberra-gtk-module"
+
+(firefox:2275): LIBDBUSMENU-GLIB-WARNING **: 12:27:04.498: Unable to get session bus: Failed to execute child process ?dbus-launch? (No such file or directory)
+1595248024982	Marionette	INFO	Listening on port 43749
+1595248025026	Marionette	WARN	TLS certificate errors will be ignored for this session
+1595248025047	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileIE2NJT"
+Gtk-Message: 12:27:05.083: Failed to load module "canberra-gtk-module"
+Gtk-Message: 12:27:05.084: Failed to load module "canberra-gtk-module"
+Gtk-Message: 12:27:05.331: Failed to load module "canberra-gtk-module"
+Gtk-Message: 12:27:05.331: Failed to load module "canberra-gtk-module"
+Gtk-Message: 12:27:05.571: Failed to load module "canberra-gtk-module"
+Gtk-Message: 12:27:05.572: Failed to load module "canberra-gtk-module"
+Gtk-Message: 12:27:05.614: Failed to load module "canberra-gtk-module"
+Gtk-Message: 12:27:05.614: Failed to load module "canberra-gtk-module"
+
+(firefox:2510): LIBDBUSMENU-GLIB-WARNING **: 12:27:05.625: Unable to get session bus: Failed to execute child process ?dbus-launch? (No such file or directory)
+1595248026136	Marionette	INFO	Listening on port 40363
+1595248026150	Marionette	WARN	TLS certificate errors will be ignored for this session
+1595248026177	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileXz025v"
+Gtk-Message: 12:27:06.222: Failed to load module "canberra-gtk-module"
+Gtk-Message: 12:27:06.222: Failed to load module "canberra-gtk-module"
+Gtk-Message: 12:27:06.604: Failed to load module "canberra-gtk-module"
+Gtk-Message: 12:27:06.605: Failed to load module "canberra-gtk-module"
+Gtk-Message: 12:27:06.733: Failed to load module "canberra-gtk-module"
+Gtk-Message: 12:27:06.734: Failed to load module "canberra-gtk-module"
+Gtk-Message: 12:27:06.781: Failed to load module "canberra-gtk-module"
+Gtk-Message: 12:27:06.782: Failed to load module "canberra-gtk-module"
+
+(firefox:2739): LIBDBUSMENU-GLIB-WARNING **: 12:27:06.792: Unable to get session bus: Failed to execute child process ?dbus-launch? (No such file or directory)
+1595248027395	Marionette	INFO	Listening on port 42819
+1595248027480	Marionette	WARN	TLS certificate errors will be ignored for this session
+Gtk-Message: 12:27:07.712: Failed to load module "canberra-gtk-module"
+Gtk-Message: 12:27:07.713: Failed to load module "canberra-gtk-module"
+1595248030350	Marionette	INFO	Stopped listening on port 42819
+1595248031249	Marionette	INFO	Stopped listening on port 40363
+1595248031781	Marionette	INFO	Stopped listening on port 43749
+1595248032539	Marionette	INFO	Stopped listening on port 32859
+1595248033717	Marionette	INFO	Stopped listening on port 43345
+1595248034682	Marionette	INFO	Stopped listening on port 39859
+1595248038617	Marionette	INFO	Stopped listening on port 35037
+1595248042683	Marionette	INFO	Stopped listening on port 43369
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1595248045323	Marionette	INFO	Stopped listening on port 37875
+1595248048293	Marionette	INFO	Stopped listening on port 46295
+1595248057414	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofilePtFsOz"
+Gtk-Message: 12:27:37.451: Failed to load module "canberra-gtk-module"
+Gtk-Message: 12:27:37.451: Failed to load module "canberra-gtk-module"
+Gtk-Message: 12:27:37.984: Failed to load module "canberra-gtk-module"
+Gtk-Message: 12:27:37.985: Failed to load module "canberra-gtk-module"
+Gtk-Message: 12:27:38.025: Failed to load module "canberra-gtk-module"
+Gtk-Message: 12:27:38.026: Failed to load module "canberra-gtk-module"
+
+(firefox:3064): LIBDBUSMENU-GLIB-WARNING **: 12:27:38.039: Unable to get session bus: Failed to execute child process ?dbus-launch? (No such file or directory)
+1595248058659	Marionette	INFO	Listening on port 45231
+1595248058717	Marionette	WARN	TLS certificate errors will be ignored for this session
+1595248058739	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileUQvTKl"
+Gtk-Message: 12:27:38.780: Failed to load module "canberra-gtk-module"
+Gtk-Message: 12:27:38.781: Failed to load module "canberra-gtk-module"
+Gtk-Message: 12:27:38.927: Failed to load module "canberra-gtk-module"
+Gtk-Message: 12:27:38.927: Failed to load module "canberra-gtk-module"
+Gtk-Message: 12:27:39.304: Failed to load module "canberra-gtk-module"
+Gtk-Message: 12:27:39.304: Failed to load module "canberra-gtk-module"
+Gtk-Message: 12:27:39.349: Failed to load module "canberra-gtk-module"
+Gtk-Message: 12:27:39.350: Failed to load module "canberra-gtk-module"
+
+(firefox:3270): LIBDBUSMENU-GLIB-WARNING **: 12:27:39.356: Unable to get session bus: Failed to execute child process ?dbus-launch? (No such file or directory)
+1595248059910	Marionette	INFO	Listening on port 43775
+1595248059943	Marionette	WARN	TLS certificate errors will be ignored for this session
+1595248059964	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofilegqWsE6"
+Gtk-Message: 12:27:40.003: Failed to load module "canberra-gtk-module"
+Gtk-Message: 12:27:40.004: Failed to load module "canberra-gtk-module"
+Gtk-Message: 12:27:40.258: Failed to load module "canberra-gtk-module"
+Gtk-Message: 12:27:40.258: Failed to load module "canberra-gtk-module"
+Gtk-Message: 12:27:40.552: Failed to load module "canberra-gtk-module"
+Gtk-Message: 12:27:40.552: Failed to load module "canberra-gtk-module"
+Gtk-Message: 12:27:40.603: Failed to load module "canberra-gtk-module"
+Gtk-Message: 12:27:40.604: Failed to load module "canberra-gtk-module"
+
+(firefox:3507): LIBDBUSMENU-GLIB-WARNING **: 12:27:40.619: Unable to get session bus: Failed to execute child process ?dbus-launch? (No such file or directory)
+1595248061160	Marionette	INFO	Listening on port 38793
+1595248061172	Marionette	WARN	TLS certificate errors will be ignored for this session
+1595248061197	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileRne37k"
+Gtk-Message: 12:27:41.241: Failed to load module "canberra-gtk-module"
+Gtk-Message: 12:27:41.242: Failed to load module "canberra-gtk-module"
+Gtk-Message: 12:27:41.480: Failed to load module "canberra-gtk-module"
+Gtk-Message: 12:27:41.480: Failed to load module "canberra-gtk-module"
+Gtk-Message: 12:27:41.745: Failed to load module "canberra-gtk-module"
+Gtk-Message: 12:27:41.746: Failed to load module "canberra-gtk-module"
+Gtk-Message: 12:27:41.796: Failed to load module "canberra-gtk-module"
+Gtk-Message: 12:27:41.796: Failed to load module "canberra-gtk-module"
+
+(firefox:3739): LIBDBUSMENU-GLIB-WARNING **: 12:27:41.807: Unable to get session bus: Failed to execute child process ?dbus-launch? (No such file or directory)
+
+(firefox:3739): Gdk-ERROR **: 12:27:41.823: The program 'firefox' received an X Window System error.
+This probably reflects a bug in the program.
+The error was 'BadValue (integer parameter out of range for operation)'.
+  (Details: serial 339 error_code 2 request_code 130 (unknown) minor_code 3)
+  (Note to programmers: normally, X errors are reported asynchronously;
+   that is, you will receive the error a while after causing it.
+   To debug your program, run it with the GDK_SYNCHRONIZE environment
+   variable to change this behavior. You can then get a meaningful
+   backtrace from your debugger if you break on the gdk_x_error() function.)
+ExceptionHandler::GenerateDump cloned child 3916
+ExceptionHandler::SendContinueSignalToChild sent continue signal to child
+ExceptionHandler::WaitForContinueSignal waiting for continue signal...
+Exiting due to channel error.
+Exiting due to channel error.
+1595248081271	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileeNx7Mg"
+Gtk-Message: 12:28:01.315: Failed to load module "canberra-gtk-module"
+Gtk-Message: 12:28:01.316: Failed to load module "canberra-gtk-module"
+Gtk-Message: 12:28:01.829: Failed to load module "canberra-gtk-module"
+Gtk-Message: 12:28:01.830: Failed to load module "canberra-gtk-module"
+Gtk-Message: 12:28:01.867: Failed to load module "canberra-gtk-module"
+Gtk-Message: 12:28:01.868: Failed to load module "canberra-gtk-module"
+
+(firefox:3955): LIBDBUSMENU-GLIB-WARNING **: 12:28:01.883: Unable to get session bus: Failed to execute child process ?dbus-launch? (No such file or directory)
+1595248082471	Marionette	INFO	Listening on port 35269
+1595248082479	Marionette	WARN	TLS certificate errors will be ignored for this session
+1595248082500	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileDcktgi"
+Gtk-Message: 12:28:02.536: Failed to load module "canberra-gtk-module"
+Gtk-Message: 12:28:02.537: Failed to load module "canberra-gtk-module"
+Gtk-Message: 12:28:02.795: Failed to load module "canberra-gtk-module"
+Gtk-Message: 12:28:02.796: Failed to load module "canberra-gtk-module"
+Gtk-Message: 12:28:03.067: Failed to load module "canberra-gtk-module"
+Gtk-Message: 12:28:03.068: Failed to load module "canberra-gtk-module"
+
+(firefox:4158): LIBDBUSMENU-GLIB-WARNING **: 12:28:03.121: Unable to get session bus: Failed to execute child process ?dbus-launch? (No such file or directory)
+Gtk-Message: 12:28:03.128: Failed to load module "canberra-gtk-module"
+Gtk-Message: 12:28:03.128: Failed to load module "canberra-gtk-module"
+1595248083732	Marionette	INFO	Listening on port 33151
+1595248083804	Marionette	WARN	TLS certificate errors will be ignored for this session
+1595248083824	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileWkk28v"
+Gtk-Message: 12:28:03.861: Failed to load module "canberra-gtk-module"
+Gtk-Message: 12:28:03.861: Failed to load module "canberra-gtk-module"
+Gtk-Message: 12:28:04.025: Failed to load module "canberra-gtk-module"
+Gtk-Message: 12:28:04.026: Failed to load module "canberra-gtk-module"
+Gtk-Message: 12:28:04.356: Failed to load module "canberra-gtk-module"
+Gtk-Message: 12:28:04.356: Failed to load module "canberra-gtk-module"
+Gtk-Message: 12:28:04.400: Failed to load module "canberra-gtk-module"
+Gtk-Message: 12:28:04.400: Failed to load module "canberra-gtk-module"
+
+(firefox:4389): LIBDBUSMENU-GLIB-WARNING **: 12:28:04.412: Unable to get session bus: Failed to execute child process ?dbus-launch? (No such file or directory)
+1595248084950	Marionette	INFO	Listening on port 41631
+1595248085027	Marionette	WARN	TLS certificate errors will be ignored for this session
+1595248085051	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileFaNvw8"
+Gtk-Message: 12:28:05.099: Failed to load module "canberra-gtk-module"
+Gtk-Message: 12:28:05.100: Failed to load module "canberra-gtk-module"
+Gtk-Message: 12:28:05.332: Failed to load module "canberra-gtk-module"
+Gtk-Message: 12:28:05.332: Failed to load module "canberra-gtk-module"
+Gtk-Message: 12:28:05.629: Failed to load module "canberra-gtk-module"
+Gtk-Message: 12:28:05.630: Failed to load module "canberra-gtk-module"
+Gtk-Message: 12:28:05.661: Failed to load module "canberra-gtk-module"
+Gtk-Message: 12:28:05.662: Failed to load module "canberra-gtk-module"
+
+(firefox:4616): LIBDBUSMENU-GLIB-WARNING **: 12:28:05.752: Unable to get session bus: Failed to execute child process ?dbus-launch? (No such file or directory)
+1595248086192	Marionette	INFO	Listening on port 36353
+1595248086254	Marionette	WARN	TLS certificate errors will be ignored for this session
+1595248086276	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileozXOYD"
+Gtk-Message: 12:28:06.313: Failed to load module "canberra-gtk-module"
+Gtk-Message: 12:28:06.314: Failed to load module "canberra-gtk-module"
+Gtk-Message: 12:28:06.574: Failed to load module "canberra-gtk-module"
+Gtk-Message: 12:28:06.575: Failed to load module "canberra-gtk-module"
+Gtk-Message: 12:28:06.828: Failed to load module "canberra-gtk-module"
+Gtk-Message: 12:28:06.829: Failed to load module "canberra-gtk-module"
+Gtk-Message: 12:28:06.871: Failed to load module "canberra-gtk-module"
+Gtk-Message: 12:28:06.872: Failed to load module "canberra-gtk-module"
+
+(firefox:4845): LIBDBUSMENU-GLIB-WARNING **: 12:28:06.880: Unable to get session bus: Failed to execute child process ?dbus-launch? (No such file or directory)
+
+(firefox:4845): Gdk-ERROR **: 12:28:06.889: The program 'firefox' received an X Window System error.
+This probably reflects a bug in the program.
+The error was 'BadValue (integer parameter out of range for operation)'.
+  (Details: serial 301 error_code 2 request_code 130 (unknown) minor_code 3)
+  (Note to programmers: normally, X errors are reported asynchronously;
+   that is, you will receive the error a while after causing it.
+   To debug your program, run it with the GDK_SYNCHRONIZE environment
+   variable to change this behavior. You can then get a meaningful
+   backtrace from your debugger if you break on the gdk_x_error() function.)
+ExceptionHandler::GenerateDump cloned child 5020
+ExceptionHandler::SendContinueSignalToChild sent continue signal to child
+ExceptionHandler::WaitForContinueSignal waiting for continue signal...
+Exiting due to channel error.
+Exiting due to channel error.
+1595248090941	Marionette	INFO	Stopped listening on port 36353
+1595248093985	Marionette	INFO	Stopped listening on port 35269
+1595248104472	Marionette	INFO	Stopped listening on port 41631
+1595248106282	Marionette	INFO	Stopped listening on port 33151
+1595248107991	Marionette	INFO	Stopped listening on port 38793
+1595248109864	Marionette	INFO	Stopped listening on port 43775
+1595248111355	Marionette	INFO	Stopped listening on port 45231
+1595248372697	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileTJGEk4"
+Gtk-Message: 12:32:52.732: Failed to load module "canberra-gtk-module"
+Gtk-Message: 12:32:52.733: Failed to load module "canberra-gtk-module"
+Gtk-Message: 12:32:53.244: Failed to load module "canberra-gtk-module"
+Gtk-Message: 12:32:53.245: Failed to load module "canberra-gtk-module"
+Gtk-Message: 12:32:53.277: Failed to load module "canberra-gtk-module"
+Gtk-Message: 12:32:53.278: Failed to load module "canberra-gtk-module"
+
+(firefox:53): LIBDBUSMENU-GLIB-WARNING **: 12:32:53.357: Unable to get session bus: Failed to execute child process ?dbus-launch? (No such file or directory)
+1595248373876	Marionette	INFO	Listening on port 43731
+1595248373900	Marionette	WARN	TLS certificate errors will be ignored for this session
+1595248373921	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofilefxx1zJ"
+Gtk-Message: 12:32:53.958: Failed to load module "canberra-gtk-module"
+Gtk-Message: 12:32:53.959: Failed to load module "canberra-gtk-module"
+Gtk-Message: 12:32:54.213: Failed to load module "canberra-gtk-module"
+Gtk-Message: 12:32:54.214: Failed to load module "canberra-gtk-module"
+Gtk-Message: 12:32:54.476: Failed to load module "canberra-gtk-module"
+Gtk-Message: 12:32:54.477: Failed to load module "canberra-gtk-module"
+Gtk-Message: 12:32:54.530: Failed to load module "canberra-gtk-module"
+Gtk-Message: 12:32:54.533: Failed to load module "canberra-gtk-module"
+
+(firefox:253): LIBDBUSMENU-GLIB-WARNING **: 12:32:54.627: Unable to get session bus: Failed to execute child process ?dbus-launch? (No such file or directory)
+1595248375085	Marionette	INFO	Listening on port 43003
+1595248375123	Marionette	WARN	TLS certificate errors will be ignored for this session
+1595248375143	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofilev36o0k"
+Gtk-Message: 12:32:55.186: Failed to load module "canberra-gtk-module"
+Gtk-Message: 12:32:55.187: Failed to load module "canberra-gtk-module"
+Gtk-Message: 12:32:55.453: Failed to load module "canberra-gtk-module"
+Gtk-Message: 12:32:55.453: Failed to load module "canberra-gtk-module"
+Gtk-Message: 12:32:55.701: Failed to load module "canberra-gtk-module"
+Gtk-Message: 12:32:55.701: Failed to load module "canberra-gtk-module"
+Gtk-Message: 12:32:55.745: Failed to load module "canberra-gtk-module"
+Gtk-Message: 12:32:55.749: Failed to load module "canberra-gtk-module"
+
+(firefox:487): LIBDBUSMENU-GLIB-WARNING **: 12:32:55.763: Unable to get session bus: Failed to execute child process ?dbus-launch? (No such file or directory)
+1595248376363	Marionette	INFO	Listening on port 41619
+1595248376446	Marionette	WARN	TLS certificate errors will be ignored for this session
+1595248376467	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofilemuCwpX"
+Gtk-Message: 12:32:56.504: Failed to load module "canberra-gtk-module"
+Gtk-Message: 12:32:56.504: Failed to load module "canberra-gtk-module"
+Gtk-Message: 12:32:56.669: Failed to load module "canberra-gtk-module"
+Gtk-Message: 12:32:56.670: Failed to load module "canberra-gtk-module"
+Gtk-Message: 12:32:57.038: Failed to load module "canberra-gtk-module"
+Gtk-Message: 12:32:57.039: Failed to load module "canberra-gtk-module"
+Gtk-Message: 12:32:57.083: Failed to load module "canberra-gtk-module"
+Gtk-Message: 12:32:57.084: Failed to load module "canberra-gtk-module"
+
+(firefox:728): LIBDBUSMENU-GLIB-WARNING **: 12:32:57.094: Unable to get session bus: Failed to execute child process ?dbus-launch? (No such file or directory)
+1595248377657	Marionette	INFO	Listening on port 39427
+1595248377671	Marionette	WARN	TLS certificate errors will be ignored for this session
+1595248377693	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile8jouE7"
+Gtk-Message: 12:32:57.751: Failed to load module "canberra-gtk-module"
+Gtk-Message: 12:32:57.752: Failed to load module "canberra-gtk-module"
+Gtk-Message: 12:32:57.997: Failed to load module "canberra-gtk-module"
+Gtk-Message: 12:32:57.998: Failed to load module "canberra-gtk-module"
+Gtk-Message: 12:32:58.280: Failed to load module "canberra-gtk-module"
+Gtk-Message: 12:32:58.281: Failed to load module "canberra-gtk-module"
+Gtk-Message: 12:32:58.327: Failed to load module "canberra-gtk-module"
+Gtk-Message: 12:32:58.327: Failed to load module "canberra-gtk-module"
+
+(firefox:955): LIBDBUSMENU-GLIB-WARNING **: 12:32:58.335: Unable to get session bus: Failed to execute child process ?dbus-launch? (No such file or directory)
+1595248378909	Marionette	INFO	Listening on port 44941
+1595248378996	Marionette	WARN	TLS certificate errors will be ignored for this session
+1595248379017	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileJz4Gcc"
+Gtk-Message: 12:32:59.062: Failed to load module "canberra-gtk-module"
+Gtk-Message: 12:32:59.062: Failed to load module "canberra-gtk-module"
+Gtk-Message: 12:32:59.235: Failed to load module "canberra-gtk-module"
+Gtk-Message: 12:32:59.236: Failed to load module "canberra-gtk-module"
+Gtk-Message: 12:32:59.557: Failed to load module "canberra-gtk-module"
+Gtk-Message: 12:32:59.558: Failed to load module "canberra-gtk-module"
+Gtk-Message: 12:32:59.604: Failed to load module "canberra-gtk-module"
+Gtk-Message: 12:32:59.605: Failed to load module "canberra-gtk-module"
+
+(firefox:1184): LIBDBUSMENU-GLIB-WARNING **: 12:32:59.618: Unable to get session bus: Failed to execute child process ?dbus-launch? (No such file or directory)
+1595248380194	Marionette	INFO	Listening on port 32919
+1595248380219	Marionette	WARN	TLS certificate errors will be ignored for this session
+Gtk-Message: 12:33:00.542: Failed to load module "canberra-gtk-module"
+Gtk-Message: 12:33:00.542: Failed to load module "canberra-gtk-module"
+1595248406061	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileZRuszh"
+Gtk-Message: 12:33:26.099: Failed to load module "canberra-gtk-module"
+Gtk-Message: 12:33:26.100: Failed to load module "canberra-gtk-module"
+Gtk-Message: 12:33:26.617: Failed to load module "canberra-gtk-module"
+Gtk-Message: 12:33:26.617: Failed to load module "canberra-gtk-module"
+Gtk-Message: 12:33:26.659: Failed to load module "canberra-gtk-module"
+Gtk-Message: 12:33:26.660: Failed to load module "canberra-gtk-module"
+
+(firefox:41): LIBDBUSMENU-GLIB-WARNING **: 12:33:26.667: Unable to get session bus: Failed to execute child process ?dbus-launch? (No such file or directory)
+1595248407321	Marionette	INFO	Listening on port 45853
+1595248407364	Marionette	WARN	TLS certificate errors will be ignored for this session
+1595248407385	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileSnZybU"
+Gtk-Message: 12:33:27.427: Failed to load module "canberra-gtk-module"
+Gtk-Message: 12:33:27.428: Failed to load module "canberra-gtk-module"
+Gtk-Message: 12:33:27.590: Failed to load module "canberra-gtk-module"
+Gtk-Message: 12:33:27.591: Failed to load module "canberra-gtk-module"
+Gtk-Message: 12:33:27.946: Failed to load module "canberra-gtk-module"
+Gtk-Message: 12:33:27.946: Failed to load module "canberra-gtk-module"
+Gtk-Message: 12:33:27.995: Failed to load module "canberra-gtk-module"
+Gtk-Message: 12:33:27.996: Failed to load module "canberra-gtk-module"
+
+(firefox:243): LIBDBUSMENU-GLIB-WARNING **: 12:33:28.000: Unable to get session bus: Failed to execute child process ?dbus-launch? (No such file or directory)
+1595248408640	Marionette	INFO	Listening on port 38695
+1595248408688	Marionette	WARN	TLS certificate errors will be ignored for this session
+1595248408709	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofilee1udX6"
+Gtk-Message: 12:33:28.760: Failed to load module "canberra-gtk-module"
+Gtk-Message: 12:33:28.760: Failed to load module "canberra-gtk-module"
+Gtk-Message: 12:33:28.909: Failed to load module "canberra-gtk-module"
+Gtk-Message: 12:33:28.910: Failed to load module "canberra-gtk-module"
+Gtk-Message: 12:33:29.276: Failed to load module "canberra-gtk-module"
+Gtk-Message: 12:33:29.277: Failed to load module "canberra-gtk-module"
+Gtk-Message: 12:33:29.321: Failed to load module "canberra-gtk-module"
+Gtk-Message: 12:33:29.321: Failed to load module "canberra-gtk-module"
+
+(firefox:474): LIBDBUSMENU-GLIB-WARNING **: 12:33:29.330: Unable to get session bus: Failed to execute child process ?dbus-launch? (No such file or directory)
+1595248409902	Marionette	INFO	Listening on port 43237
+1595248409913	Marionette	WARN	TLS certificate errors will be ignored for this session
+1595248409933	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileCzY7jC"
+Gtk-Message: 12:33:29.970: Failed to load module "canberra-gtk-module"
+Gtk-Message: 12:33:29.971: Failed to load module "canberra-gtk-module"
+Gtk-Message: 12:33:30.261: Failed to load module "canberra-gtk-module"
+Gtk-Message: 12:33:30.261: Failed to load module "canberra-gtk-module"
+Gtk-Message: 12:33:30.493: Failed to load module "canberra-gtk-module"
+Gtk-Message: 12:33:30.493: Failed to load module "canberra-gtk-module"
+Gtk-Message: 12:33:30.535: Failed to load module "canberra-gtk-module"
+Gtk-Message: 12:33:30.536: Failed to load module "canberra-gtk-module"
+
+(firefox:710): LIBDBUSMENU-GLIB-WARNING **: 12:33:30.546: Unable to get session bus: Failed to execute child process ?dbus-launch? (No such file or directory)
+1595248411167	Marionette	INFO	Listening on port 34623
+1595248411236	Marionette	WARN	TLS certificate errors will be ignored for this session
+1595248411256	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile7G1eVy"
+Gtk-Message: 12:33:31.294: Failed to load module "canberra-gtk-module"
+Gtk-Message: 12:33:31.295: Failed to load module "canberra-gtk-module"
+Gtk-Message: 12:33:31.463: Failed to load module "canberra-gtk-module"
+Gtk-Message: 12:33:31.463: Failed to load module "canberra-gtk-module"
+Gtk-Message: 12:33:31.813: Failed to load module "canberra-gtk-module"
+Gtk-Message: 12:33:31.814: Failed to load module "canberra-gtk-module"
+Gtk-Message: 12:33:31.857: Failed to load module "canberra-gtk-module"
+Gtk-Message: 12:33:31.857: Failed to load module "canberra-gtk-module"
+
+(firefox:937): LIBDBUSMENU-GLIB-WARNING **: 12:33:31.868: Unable to get session bus: Failed to execute child process ?dbus-launch? (No such file or directory)
+1595248412455	Marionette	INFO	Listening on port 38939
+1595248412464	Marionette	WARN	TLS certificate errors will be ignored for this session
+1595248412484	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile3Yuxj0"
+Gtk-Message: 12:33:32.522: Failed to load module "canberra-gtk-module"
+Gtk-Message: 12:33:32.522: Failed to load module "canberra-gtk-module"
+Gtk-Message: 12:33:32.788: Failed to load module "canberra-gtk-module"
+Gtk-Message: 12:33:32.789: Failed to load module "canberra-gtk-module"
+Gtk-Message: 12:33:33.044: Failed to load module "canberra-gtk-module"
+Gtk-Message: 12:33:33.045: Failed to load module "canberra-gtk-module"
+Gtk-Message: 12:33:33.089: Failed to load module "canberra-gtk-module"
+Gtk-Message: 12:33:33.090: Failed to load module "canberra-gtk-module"
+
+(firefox:1163): LIBDBUSMENU-GLIB-WARNING **: 12:33:33.172: Unable to get session bus: Failed to execute child process ?dbus-launch? (No such file or directory)
+1595248413663	Marionette	INFO	Listening on port 41827
+1595248413687	Marionette	WARN	TLS certificate errors will be ignored for this session
+Gtk-Message: 12:33:34.017: Failed to load module "canberra-gtk-module"
+Gtk-Message: 12:33:34.018: Failed to load module "canberra-gtk-module"
+A content process crashed and MOZ_CRASHREPORTER_SHUTDOWN is set, shutting down
+1595248416014	Marionette	ERROR	[21] No reply from Marionette:Register
+1595248416181	Marionette	INFO	Stopped listening on port 38939
+A content process crashed and MOZ_CRASHREPORTER_SHUTDOWN is set, shutting down
+1595248416509	Marionette	ERROR	[21] No reply from Marionette:Register
+1595248416667	Marionette	INFO	Stopped listening on port 41827
+1595248425733	Marionette	INFO	Stopped listening on port 45853
+1595248447402	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile7RRDo2"
+Gtk-Message: 12:34:07.442: Failed to load module "canberra-gtk-module"
+Gtk-Message: 12:34:07.443: Failed to load module "canberra-gtk-module"
+Gtk-Message: 12:34:07.931: Failed to load module "canberra-gtk-module"
+Gtk-Message: 12:34:07.931: Failed to load module "canberra-gtk-module"
+Gtk-Message: 12:34:07.984: Failed to load module "canberra-gtk-module"
+Gtk-Message: 12:34:07.990: Failed to load module "canberra-gtk-module"
+
+(firefox:43): LIBDBUSMENU-GLIB-WARNING **: 12:34:07.990: Unable to get session bus: Failed to execute child process ?dbus-launch? (No such file or directory)
+1595248448545	Marionette	INFO	Listening on port 38421
+1595248448605	Marionette	WARN	TLS certificate errors will be ignored for this session
+1595248448627	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileJ1en0q"
+Gtk-Message: 12:34:08.671: Failed to load module "canberra-gtk-module"
+Gtk-Message: 12:34:08.672: Failed to load module "canberra-gtk-module"
+Gtk-Message: 12:34:08.909: Failed to load module "canberra-gtk-module"
+Gtk-Message: 12:34:08.910: Failed to load module "canberra-gtk-module"
+Gtk-Message: 12:34:09.197: Failed to load module "canberra-gtk-module"
+Gtk-Message: 12:34:09.197: Failed to load module "canberra-gtk-module"
+Gtk-Message: 12:34:09.238: Failed to load module "canberra-gtk-module"
+Gtk-Message: 12:34:09.239: Failed to load module "canberra-gtk-module"
+
+(firefox:243): LIBDBUSMENU-GLIB-WARNING **: 12:34:09.246: Unable to get session bus: Failed to execute child process ?dbus-launch? (No such file or directory)
+1595248449935	Marionette	INFO	Listening on port 39137
+1595248450031	Marionette	WARN	TLS certificate errors will be ignored for this session
+1595248450053	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofilebjL4am"
+Gtk-Message: 12:34:10.093: Failed to load module "canberra-gtk-module"
+Gtk-Message: 12:34:10.093: Failed to load module "canberra-gtk-module"
+Gtk-Message: 12:34:10.176: Failed to load module "canberra-gtk-module"
+Gtk-Message: 12:34:10.189: Failed to load module "canberra-gtk-module"
+Gtk-Message: 12:34:10.622: Failed to load module "canberra-gtk-module"
+Gtk-Message: 12:34:10.623: Failed to load module "canberra-gtk-module"
+Gtk-Message: 12:34:10.667: Failed to load module "canberra-gtk-module"
+Gtk-Message: 12:34:10.668: Failed to load module "canberra-gtk-module"
+
+(firefox:475): LIBDBUSMENU-GLIB-WARNING **: 12:34:10.680: Unable to get session bus: Failed to execute child process ?dbus-launch? (No such file or directory)
+1595248451277	Marionette	INFO	Listening on port 46305
+1595248451355	Marionette	WARN	TLS certificate errors will be ignored for this session
+1595248451377	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile8pSQkr"
+Gtk-Message: 12:34:11.427: Failed to load module "canberra-gtk-module"
+Gtk-Message: 12:34:11.428: Failed to load module "canberra-gtk-module"
+Gtk-Message: 12:34:11.588: Failed to load module "canberra-gtk-module"
+Gtk-Message: 12:34:11.589: Failed to load module "canberra-gtk-module"
+Gtk-Message: 12:34:11.928: Failed to load module "canberra-gtk-module"
+Gtk-Message: 12:34:11.929: Failed to load module "canberra-gtk-module"
+Gtk-Message: 12:34:11.971: Failed to load module "canberra-gtk-module"
+Gtk-Message: 12:34:11.972: Failed to load module "canberra-gtk-module"
+
+(firefox:705): LIBDBUSMENU-GLIB-WARNING **: 12:34:11.983: Unable to get session bus: Failed to execute child process ?dbus-launch? (No such file or directory)
+1595248452503	Marionette	INFO	Listening on port 44457
+1595248452580	Marionette	WARN	TLS certificate errors will be ignored for this session
+1595248452606	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofiledSBCFL"
+Gtk-Message: 12:34:12.642: Failed to load module "canberra-gtk-module"
+Gtk-Message: 12:34:12.643: Failed to load module "canberra-gtk-module"
+Gtk-Message: 12:34:12.900: Failed to load module "canberra-gtk-module"
+Gtk-Message: 12:34:12.901: Failed to load module "canberra-gtk-module"
+Gtk-Message: 12:34:13.148: Failed to load module "canberra-gtk-module"
+Gtk-Message: 12:34:13.149: Failed to load module "canberra-gtk-module"
+Gtk-Message: 12:34:13.189: Failed to load module "canberra-gtk-module"
+Gtk-Message: 12:34:13.190: Failed to load module "canberra-gtk-module"
+
+(firefox:936): LIBDBUSMENU-GLIB-WARNING **: 12:34:13.202: Unable to get session bus: Failed to execute child process ?dbus-launch? (No such file or directory)
+1595248453805	Marionette	INFO	Listening on port 41591
+1595248453811	Marionette	WARN	TLS certificate errors will be ignored for this session
+1595248453833	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofilee7K1ax"
+Gtk-Message: 12:34:13.876: Failed to load module "canberra-gtk-module"
+Gtk-Message: 12:34:13.876: Failed to load module "canberra-gtk-module"
+Gtk-Message: 12:34:14.122: Failed to load module "canberra-gtk-module"
+Gtk-Message: 12:34:14.123: Failed to load module "canberra-gtk-module"
+Gtk-Message: 12:34:14.404: Failed to load module "canberra-gtk-module"
+Gtk-Message: 12:34:14.405: Failed to load module "canberra-gtk-module"
+Gtk-Message: 12:34:14.449: Failed to load module "canberra-gtk-module"
+Gtk-Message: 12:34:14.449: Failed to load module "canberra-gtk-module"
+
+(firefox:1163): LIBDBUSMENU-GLIB-WARNING **: 12:34:14.462: Unable to get session bus: Failed to execute child process ?dbus-launch? (No such file or directory)
+1595248455066	Marionette	INFO	Listening on port 46727
+1595248455136	Marionette	WARN	TLS certificate errors will be ignored for this session
+Gtk-Message: 12:34:15.375: Failed to load module "canberra-gtk-module"
+Gtk-Message: 12:34:15.376: Failed to load module "canberra-gtk-module"
+A content process crashed and MOZ_CRASHREPORTER_SHUTDOWN is set, shutting down
+1595248462531	Marionette	ERROR	[21] No reply from Marionette:Register
+1595248462712	Marionette	INFO	Stopped listening on port 41591
+
+###!!! [Parent][MessageChannel] Error: (msgtype=0x5B001C,name=PHttpChannel::Msg_DeleteSelf) Channel error: cannot send/recv
+
+
+###!!! [Parent][MessageChannel] Error: (msgtype=0x5B001C,name=PHttpChannel::Msg_DeleteSelf) Channel error: cannot send/recv
+
+
+###!!! [Parent][MessageChannel] Error: (msgtype=0x5B001C,name=PHttpChannel::Msg_DeleteSelf) Channel error: cannot send/recv
+
+
+###!!! [Parent][MessageChannel] Error: (msgtype=0x5B001C,name=PHttpChannel::Msg_DeleteSelf) Channel error: cannot send/recv
+
+
+###!!! [Parent][MessageChannel] Error: (msgtype=0x5B001C,name=PHttpChannel::Msg_DeleteSelf) Channel error: cannot send/recv
+
+A content process crashed and MOZ_CRASHREPORTER_SHUTDOWN is set, shutting down
+1595248463096	Marionette	ERROR	[21] No reply from Marionette:Register
+1595248463245	Marionette	INFO	Stopped listening on port 46727
+1595248531062	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofilediKwYu"
+Gtk-Message: 12:35:31.109: Failed to load module "canberra-gtk-module"
+Gtk-Message: 12:35:31.110: Failed to load module "canberra-gtk-module"
+Gtk-Message: 12:35:31.599: Failed to load module "canberra-gtk-module"
+Gtk-Message: 12:35:31.600: Failed to load module "canberra-gtk-module"
+Gtk-Message: 12:35:31.642: Failed to load module "canberra-gtk-module"
+Gtk-Message: 12:35:31.643: Failed to load module "canberra-gtk-module"
+
+(firefox:42): LIBDBUSMENU-GLIB-WARNING **: 12:35:31.656: Unable to get session bus: Failed to execute child process ?dbus-launch? (No such file or directory)
+1595248532286	Marionette	INFO	Listening on port 36607
+1595248532365	Marionette	WARN	TLS certificate errors will be ignored for this session
+1595248532387	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile3oHFrC"
+Gtk-Message: 12:35:32.423: Failed to load module "canberra-gtk-module"
+Gtk-Message: 12:35:32.423: Failed to load module "canberra-gtk-module"
+Gtk-Message: 12:35:32.575: Failed to load module "canberra-gtk-module"
+Gtk-Message: 12:35:32.576: Failed to load module "canberra-gtk-module"
+Gtk-Message: 12:35:32.936: Failed to load module "canberra-gtk-module"
+Gtk-Message: 12:35:32.937: Failed to load module "canberra-gtk-module"
+Gtk-Message: 12:35:32.979: Failed to load module "canberra-gtk-module"
+Gtk-Message: 12:35:32.980: Failed to load module "canberra-gtk-module"
+
+(firefox:243): LIBDBUSMENU-GLIB-WARNING **: 12:35:32.987: Unable to get session bus: Failed to execute child process ?dbus-launch? (No such file or directory)
+1595248533625	Marionette	INFO	Listening on port 46313
+1595248533689	Marionette	WARN	TLS certificate errors will be ignored for this session
+1595248533712	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileGihEPT"
+Gtk-Message: 12:35:33.759: Failed to load module "canberra-gtk-module"
+Gtk-Message: 12:35:33.760: Failed to load module "canberra-gtk-module"
+Gtk-Message: 12:35:33.910: Failed to load module "canberra-gtk-module"
+Gtk-Message: 12:35:33.910: Failed to load module "canberra-gtk-module"
+Gtk-Message: 12:35:34.259: Failed to load module "canberra-gtk-module"
+Gtk-Message: 12:35:34.260: Failed to load module "canberra-gtk-module"
+Gtk-Message: 12:35:34.310: Failed to load module "canberra-gtk-module"
+Gtk-Message: 12:35:34.311: Failed to load module "canberra-gtk-module"
+
+(firefox:475): LIBDBUSMENU-GLIB-WARNING **: 12:35:34.318: Unable to get session bus: Failed to execute child process ?dbus-launch? (No such file or directory)
+1595248534921	Marionette	INFO	Listening on port 43597
+1595248535015	Marionette	WARN	TLS certificate errors will be ignored for this session
+1595248535037	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofilecy9JTH"
+Gtk-Message: 12:35:35.074: Failed to load module "canberra-gtk-module"
+Gtk-Message: 12:35:35.075: Failed to load module "canberra-gtk-module"
+Gtk-Message: 12:35:35.234: Failed to load module "canberra-gtk-module"
+Gtk-Message: 12:35:35.235: Failed to load module "canberra-gtk-module"
+Gtk-Message: 12:35:35.648: Failed to load module "canberra-gtk-module"
+Gtk-Message: 12:35:35.649: Failed to load module "canberra-gtk-module"
+Gtk-Message: 12:35:35.700: Failed to load module "canberra-gtk-module"
+Gtk-Message: 12:35:35.702: Failed to load module "canberra-gtk-module"
+
+(firefox:701): LIBDBUSMENU-GLIB-WARNING **: 12:35:35.783: Unable to get session bus: Failed to execute child process ?dbus-launch? (No such file or directory)
+1595248536266	Marionette	INFO	Listening on port 39381
+1595248536340	Marionette	WARN	TLS certificate errors will be ignored for this session
+1595248536363	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile8ShZPS"
+Gtk-Message: 12:35:36.409: Failed to load module "canberra-gtk-module"
+Gtk-Message: 12:35:36.410: Failed to load module "canberra-gtk-module"
+Gtk-Message: 12:35:36.556: Failed to load module "canberra-gtk-module"
+Gtk-Message: 12:35:36.557: Failed to load module "canberra-gtk-module"
+Gtk-Message: 12:35:36.911: Failed to load module "canberra-gtk-module"
+Gtk-Message: 12:35:36.911: Failed to load module "canberra-gtk-module"
+Gtk-Message: 12:35:36.954: Failed to load module "canberra-gtk-module"
+Gtk-Message: 12:35:36.954: Failed to load module "canberra-gtk-module"
+
+(firefox:933): LIBDBUSMENU-GLIB-WARNING **: 12:35:36.963: Unable to get session bus: Failed to execute child process ?dbus-launch? (No such file or directory)
+1595248537523	Marionette	INFO	Listening on port 40269
+1595248537565	Marionette	WARN	TLS certificate errors will be ignored for this session
+1595248537586	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileR8f02d"
+Gtk-Message: 12:35:37.622: Failed to load module "canberra-gtk-module"
+Gtk-Message: 12:35:37.623: Failed to load module "canberra-gtk-module"
+Gtk-Message: 12:35:37.880: Failed to load module "canberra-gtk-module"
+Gtk-Message: 12:35:37.881: Failed to load module "canberra-gtk-module"
+Gtk-Message: 12:35:38.133: Failed to load module "canberra-gtk-module"
+Gtk-Message: 12:35:38.134: Failed to load module "canberra-gtk-module"
+Gtk-Message: 12:35:38.180: Failed to load module "canberra-gtk-module"
+Gtk-Message: 12:35:38.181: Failed to load module "canberra-gtk-module"
+
+(firefox:1165): LIBDBUSMENU-GLIB-WARNING **: 12:35:38.196: Unable to get session bus: Failed to execute child process ?dbus-launch? (No such file or directory)
+1595248538767	Marionette	INFO	Listening on port 34699
+1595248538789	Marionette	WARN	TLS certificate errors will be ignored for this session
+Gtk-Message: 12:35:39.112: Failed to load module "canberra-gtk-module"
+Gtk-Message: 12:35:39.113: Failed to load module "canberra-gtk-module"
+A content process crashed and MOZ_CRASHREPORTER_SHUTDOWN is set, shutting down
+1595248560522	Marionette	ERROR	[21] No reply from Marionette:Register
+1595248560685	Marionette	INFO	Stopped listening on port 40269
+A content process crashed and MOZ_CRASHREPORTER_SHUTDOWN is set, shutting down
+1595248561012	Marionette	ERROR	[21] No reply from Marionette:Register
+1595248561181	Marionette	INFO	Stopped listening on port 34699
